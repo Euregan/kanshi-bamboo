@@ -1,0 +1,14 @@
+{
+  "name": "@kanshi/bamboo",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0",
+  },
+  "author": "Valentin Manceaux-Panot",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
+}
