@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "name": "bamboo",
+  "configuration": {
+    "provider": {
+      "auth": "The authentication header",
+      "host": "The API URL",
+      "cache": "The cache time for every call, in milliseconds"
+    },
+    "application": {
+      "project": "The bamboo project",
+      "plan": "The bamboo plan"
+    }
+  }
+}
