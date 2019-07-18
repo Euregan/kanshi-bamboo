@@ -1,6 +1,7 @@
 {
   "version": "1.0.0",
   "name": "bamboo",
+  "categories": ["builds", "deployments"],
   "configuration": {
     "provider": {
       "auth": "The authentication header",
